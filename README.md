@@ -40,9 +40,9 @@
 
 
 ### Contributors:
-Vision + Concept: Modem <br> 
+Vision + Concept: Modem @modem<br> 
 Industrial Design: Panter&Tourron <br> 
-Software + Hardware: Alice Stewart <br> 
+Software + Hardware: Alice Stewart @a-l-i-c-3 <br> 
 Product Renderings: Côme Lart <br> 
 Illustrations: Hugo Bernier <br> 
 Campaign Teaser: Michael Willis
