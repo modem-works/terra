@@ -34,3 +34,16 @@
 
 
 ### Hardware:
+
+
+<br> <!-- Additional spacing -->
+
+
+### Contributors:
+Vision + Concept: Modem
+Industrial Design: Panter&Tourron
+Software + Hardware: Alice Stewart
+Product Renderings: Côme Lart
+Illustrations: Hugo Bernier
+Campaign Teaser: Michael Willis
+
