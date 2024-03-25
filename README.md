@@ -16,8 +16,8 @@
 <br> <!-- Additional spacing -->
 
 ### Features:
-- **Wander Without Your Phone**: TERRA invites users to leave their smartphones behind and reconnect with their surroundings. The standalone device boasts a minimalist interface, featuring a tranquil compass needle and gentle haptic feedback to ensure users remain engaged with the present moment. 
 - **Improvised Trails, Powered by AI**: Every journey begins with a prompt. TERRA’s sophisticated AI translates your intentions, available time, and precise location into a tailored trail of GPS coordinates. Users don't know where TERRA will take them; the only certainty is finding their way back to the starting point.
+- **Wander Without Your Phone**: TERRA invites users to leave their smartphones behind and reconnect with their surroundings. The standalone device boasts a minimalist interface, featuring a tranquil compass needle and gentle haptic feedback to ensure users remain engaged with the present moment.  
 - **Open-Source by Design**: TERRA is designed with a DIY mindset. Anyone can download the open-source software, 3D print the CAD designs, assemble the necessary hardware, and start wandering.
 
 <br> <!-- Additional spacing -->
@@ -48,3 +48,7 @@ Product Renderings: Côme Lart<br>
 Illustrations: Hugo Bernier<br> 
 Campaign Teaser: Michael Willis
 
+<br> <!-- Additional spacing -->
+
+### License:
+The report and this README are licensed under the GNU General Public License v3.0 © 2024 Modem 
