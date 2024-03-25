@@ -28,9 +28,9 @@
 <br> <!-- Additional spacing -->
 
 
-### SOFTWARE:
+### Software:
 
 <br> <!-- Additional spacing -->
 
 
-### HARDWARE:
+### Hardware:
