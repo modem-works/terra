@@ -40,7 +40,7 @@
 
 
 ### Contributors:
-Vision + Concept: Modem @modem<br> 
+Vision + Concept: Modem @modem-works<br> 
 Industrial Design: Panter&Tourron <br> 
 Software + Hardware: Alice Stewart @a-l-i-c-3 <br> 
 Product Renderings: Côme Lart <br> 
