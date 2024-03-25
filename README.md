@@ -10,7 +10,8 @@
 <br> <!-- Additional spacing -->
 <br> <!-- Additional spacing -->
 
-###  Designed with the science of AI and the wisdom of mindfulness, TERRA is the incredible, pocket-sized compass that lets you wander without getting lost.
+##  Designed with the science of AI and the wisdom of mindfulness, TERRA is the incredible, pocket-sized compass that lets you wander without getting lost. Leave your phone behind and reconnect with your surroundings.
+
 
 <br> <!-- Additional spacing -->
 
@@ -40,10 +41,10 @@
 
 
 ### Contributors:
-Vision + Concept: Modem @modem-works<br> 
-Industrial Design: Panter&Tourron <br> 
-Software + Hardware: Alice Stewart @a-l-i-c-3 <br> 
-Product Renderings: Côme Lart <br> 
-Illustrations: Hugo Bernier <br> 
+Vision + Concept: Modem<br> 
+Industrial Design: Panter&Tourron<br> 
+Software + Hardware: Alice Stewart<br> 
+Product Renderings: Côme Lart<br> 
+Illustrations: Hugo Bernier<br> 
 Campaign Teaser: Michael Willis
 
