@@ -64,11 +64,11 @@ The hardware for the TERRA project is based on an ESP32 device, equipped with a 
 The main components required are:
 
 - ESP32 Feather V2 [link](https://learn.adafruit.com/adafruit-esp32-feather-v2/pinouts)
-- Waveshare 1.28" Round LCD Display Module with GC9A01 Driver [[link](https://www.waveshare.com/1.28inch-lcd-module.htm)]()
+- Waveshare 1.28" Round LCD Display Module with GC9A01 Driver [link](https://www.waveshare.com/1.28inch-lcd-module.htm)
 - Adafruit Push-button Power Switch [link](https://thepihut.com/products/adafruit-push-button-power-switch-breakout)
 - Beitian BN 880 GPS module [link](https://store.beitian.com/products/beitian-compass-qmc5883l-amp2-6-pix4-pixhawk-gnss-gps-glonass-dual-flight-control-gps-module-bn-880q?variant=44696120295711)
 - Adafruit DRV2605L Haptic Controller Breakout [[link](https://learn.adafruit.com/adafruit-drv2605-haptic-controller-breakout/arduino-code)]()
-- CMPS12 Compass [[link](https://www.robot-electronics.co.uk/cmps12-tilt-compensated-magnetic-compass.html)]()
+- CMPS12 Compass [link](https://www.robot-electronics.co.uk/cmps12-tilt-compensated-magnetic-compass.html)
 - Round Battery
 - USB C charging port extender
 
