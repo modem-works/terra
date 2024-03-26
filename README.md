@@ -51,4 +51,4 @@ Campaign Teaser: Michael Willis
 <br> <!-- Additional spacing -->
 
 ### License:
-The report and this README are licensed under the GNU General Public License v3.0 © 2024 Modem 
+TERRA is licensed under the GNU General Public License v3.0 © 2024 Modem 
