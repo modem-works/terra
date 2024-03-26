@@ -1,0 +1,17 @@
+{
+  "name": "TERRA",
+  "version": "1.0.0",
+  "description": "TERRA is a pocket-sized AI Compass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Modem",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.0",
+    "node-fetch": "^3.3.2"
+  }
+}

@@ -1,0 +1,137 @@
+.pac-container:after {
+  /* Disclaimer: not needed to show 'powered by Google' if also a Google Map is shown */
+
+  background-image: none !important;
+  height: 0px;
+}
+
+#content {
+  display: flex;
+  flex-direction: column; /* Stack items vertically */
+  justify-content: center; /* Center items horizontally */
+  align-items: center; /* Center items vertically */
+  height: 100vh;
+  position: relative;
+}
+
+.pac-container {
+  background-color: #f8f7f4;
+  position: absolute !important;
+  font-family: Arial, sans-serif;
+  z-index: 1000;
+  border-top: 1px solid #363636;
+  font-family: Arial, sans-serif;
+  overflow: hidden;
+  border: 1px solid #363636;
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  box-shadow: none;
+  font-size: 14px;
+}
+
+body {
+  background-color: #f8f7f4;
+  font-family: Arial, sans-serif;
+  color: #363636;
+  margin: 0;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  border: none;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 14px;
+  background: #363636;
+  padding: 8px 40px 8px 40px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
+
+#address-form {
+  /* Align items on the same line */
+  display: flex;
+  align-items: center;
+  gap: 10px; /* Adjust the space between elements */
+}
+
+#address-form input,
+#address-form select {
+  font-size: 14px;
+  color: #363636;
+  background-color: transparent;
+  border: 1px solid #363636;
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  /* padding-right: 50px; */
+  width: 250px;
+}
+
+#address-form button {
+  cursor: pointer; /* Change cursor to pointer when hovering over the button */
+}
+
+/* Additional styles to ensure consistency across different browsers */
+#address-form input:focus,
+#address-form select:focus,
+#address-form button:focus {
+  outline: none; /* Remove the default focus outline */
+}
+
+#address-form input::placeholder {
+  color: #363636;
+}
+
+/* -- */
+
+.custom-select select {
+  width: 100%;
+  -webkit-appearance: none; /* Safari and older Chrome, Edge */
+  -moz-appearance: none; /* Firefox */
+  appearance: none; /* Standard */
+  padding: 5px 30px 5px 5px; /* Adjust padding to make room for the custom arrow */
+  border: none; /* Optional: remove if you want the border */
+  background-color: transparent; /* Make the select background match the container */
+  color: #363636;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+}
+
+.image-wrapper {
+  text-align: center; /* Center the image */
+}
+
+.walk-image {
+  display: block;
+  width: 200px;
+  margin: 0 auto; /* Center the image horizontally and ensure it's on its own line */
+  margin-bottom: 50px;
+}
+
+#warningMessage {
+    visibility: hidden; /* Initially hidden, but space is reserved */
+    color: red;
+    margin-top: 10px;
+    font-size: 12px;
+    height: 20px; /* Example fixed height, adjust as needed */
+    opacity: 0;
+    transition: opacity 0.5s; /* Smooth transition for opacity change */
+  }
+  
+
+
+  #routeMessage{
+    height: 32px;
+
+  }
+  

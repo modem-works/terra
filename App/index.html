@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Address Autocomplete Example</title>
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB20pJT1zKQQQ0Z0AId0Iioibkl9_I2_sY&libraries=places&callback=initAutocomplete"
+      async
+      defer
+    ></script>
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="content">
+      <div class="image-wrapper">
+        <img src="walk.png" alt="Walking" class="walk-image" />
+      </div>
+
+      <div id="routeMessage" style="display: none">GENERATING ROUTE...</div>
+      
+      <div id="routeResult" style="display: none"></div>
+
+      <form id="address-form" class="custom_input">
+        <input
+          id="autocomplete"
+          class="input"
+          placeholder="Location"
+          type="text"
+        />
+        <div class="custom-select">
+          <select id="time-selection">
+            <option value="default">Duration</option>
+            <option value="5">5 minutes</option>
+            <option value="10">10 minutes</option>
+            <option value="30">30 minutes</option>
+            <option value="60">60 minutes</option>
+          </select>
+        </div>
+        <button type="submit" class="btn">CREATE TRAIL</button>
+      </form>
+
+      <div id="warningMessage" style="color: red; margin-top: 10px;">
+        <!-- Warning message will be inserted here -->
+      </div>
+    </div>
+  </body>
+</html>
