@@ -101,10 +101,9 @@ You can use your own checkpoint files by converting black and white images into 
 
 #### Using Your Own Checkpoint Files
 
-- Convert static black and white `bmp` images to XBM format using [this online tool](https://www.online-utility.org/image/convert/to/XBM)
-- Open the XBM file in a text editor and copy the hexadecimal values of the loop
-- Ensure the image is 240x240 pixels.
-- Replace the existing files in the `checkpoints` directory with your customized `.h` file.
+- Convert static black and white, 240x240PX `.bmp` images to `.XBM` format using [this online tool](https://www.online-utility.org/image/convert/to/XBM).
+- Open the XBM file in a text editor and copy the hexadecimal values included in the curly brackets.
+- Replace the existing files in the `images/checkpoints` directory with your customized `.h` file.
 
 ### Contributors:
 Vision + Concept: Modem<br> 
