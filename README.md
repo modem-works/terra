@@ -75,21 +75,21 @@ The main components required are:
 ### Wiring
 Connect the components together in the following order:
 
-| ESP32     | Screen | Motor | CMPS12 | GPS | Button |
-| --------- | ------ | ----- | ------ | --- | ------ |
-| 3V        | VCC    | 3V    | 3V     | 3V  |        |
-| GND       | GND    | GND   | GND    | GND | GND    |
-| 19 (MOSI) | DIN    |       |        |     |        |
-| 4 (A5)    | RST    |       |        |     |        |
-| 5 (SCK)   | CLK    |       |        |     |        |
-| 12        | BL     |       |        |     |        |
-| 15        | CS     |       |        |     |        |
-| 32 (A7)   |        |       |        |     | OFF    |
-| 33        | DC     |       |        |     |        |
-| SDA       |        | SDA   | SDA    |     |        |
-| SCL       |        | SCL   | SCL    |     |        |
-| RX        |        |       |        | TX  |        |
-| TX        |        |       |        | RX  |        |
+| ESP32 Pin | Screen | Motor Driver | Compass | GPS | Push Button |
+| --------- | ------ | ------------ | ------- | --- | ----------- |
+| 3V        | VCC    | 3V           | 3V      | 3V  |             |
+| GND       | GND    | GND          | GND     | GND | GND         |
+| 19 (MOSI) | DIN    |              |         |     |             |
+| 4 (A5)    | RST    |              |         |     |             |
+| 5 (SCK)   | CLK    |              |         |     |             |
+| 12        | BL     |              |         |     |             |
+| 15        | CS     |              |         |     |             |
+| 32 (A7)   |        |              |         |     | OFF         |
+| 33        | DC     |              |         |     |             |
+| SDA       |        | SDA          | SDA     |     |             |
+| SCL       |        | SCL          | SCL     |     |             |
+| RX        |        |              |         | TX  |             |
+| TX        |        |              |         | RX  |             |
 
 ## Arduino Code
 
