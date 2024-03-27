@@ -113,7 +113,5 @@ Product Renderings: Côme Lart<br>
 Illustrations: Hugo Bernier<br> 
 Campaign Teaser: Michael Willis
 
-<br> <!-- Additional spacing -->
-
 ### License
 TERRA is licensed under the GNU General Public License v3.0 © 2024 Modem 
