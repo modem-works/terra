@@ -29,7 +29,7 @@
 <br> <!-- Additional spacing -->
 
 
-### Software:
+### Software
 
 The TERRA App generates coordinates or checkpoints from a starting point and an ideal trail length using the ChatGPT API.
 
@@ -105,7 +105,7 @@ You can use your own checkpoint files by converting black and white images into 
 - Open the XBM file in a text editor and copy the hexadecimal values included in the curly brackets.
 - Replace the existing files in the `images/checkpoints` directory with your customized `.h` file.
 
-### Contributors:
+### Contributors
 Vision + Concept: Modem<br> 
 Industrial Design: Panter&Tourron<br> 
 Software + Hardware: Alice Stewart<br> 
@@ -115,5 +115,5 @@ Campaign Teaser: Michael Willis
 
 <br> <!-- Additional spacing -->
 
-### License:
+### License
 TERRA is licensed under the GNU General Public License v3.0 © 2024 Modem 
