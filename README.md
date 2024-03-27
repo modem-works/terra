@@ -15,7 +15,7 @@
 
 <br> <!-- Additional spacing -->
 
-### Features:
+### Features
 - **Improvised Trails, Powered by AI**: Every journey begins with a prompt. TERRA’s sophisticated AI translates your intentions, available time, and precise location into a tailored trail of GPS coordinates. Users don't know where TERRA will take them; the only certainty is finding their way back to the starting point.
 - **Wander Without Your Phone**: TERRA invites users to leave their smartphones behind and reconnect with their surroundings. The standalone device boasts a minimalist interface, featuring a tranquil compass needle and gentle haptic feedback to ensure users remain engaged with the present moment.  
 - **Open-Source by Design**: TERRA is designed with a DIY mindset. Anyone can download the open-source software, 3D print the CAD designs, assemble the necessary hardware, and start wandering.
@@ -54,7 +54,7 @@ To run the TERRA App locally, follow these steps:
 5. **Download config.h File:** Download the `config.h` file which contains the generated route configuration.
 6. **Update Arduino Code:** Replace the `config.h` file in the Arduino code directory with the newly downloaded file.
 
-### Hardware:
+### Hardware
 
 
 The hardware for the TERRA project is based on an ESP32 device, equipped with a range of sensors for navigation and interaction.
