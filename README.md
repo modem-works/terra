@@ -77,7 +77,7 @@ Connect the components together in the following order:
 
 | ESP32 Pin | Screen | Motor Driver | Compass | GPS | Push Button |
 | --------- | ------ | ------------ | ------- | --- | ----------- |
-| 3V        | VCC    | 3V           | 3V      | 3V  |             |
+| 3V        | VCC    | VIN          | VIN     | VIN |             |
 | GND       | GND    | GND          | GND     | GND | GND         |
 | 19 (MOSI) | DIN    |              |         |     |             |
 | 4 (A5)    | RST    |              |         |     |             |
