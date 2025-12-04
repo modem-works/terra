@@ -45,7 +45,7 @@ The TERRA App generates coordinates or checkpoints from a starting point and an 
 To run the TERRA App locally, follow these steps:
 
 1. **Implement ChatGPT API Key:** Obtain a [ChatGPT API key](https://platform.openai.com/) and replace ```YOUR_OPENAI_API_KEY``` with it in the ```server.js``` file.
-2. **Implement Google Maps API Key:** Obtain a [Google Places API key](https://developers.google.com/maps/documentation/places/web-service/overview) and replace ```YOUR_MAPS_KEY``` with it in the ```index.js``` file.
+2. **Implement Google Maps API Key:** Obtain a [Google Places API key](https://developers.google.com/maps/documentation/places/web-service/overview) and replace ```YOUR_MAPS_KEY``` with it in the ```index.html``` file.
 3. **Run Locally:** To run the application, use the command:
     ```
     node server.js
